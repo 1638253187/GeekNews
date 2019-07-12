@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">GeekNews</string>
+    <string name="nv_open">开启</string>
+    <string name="nv_close">关闭</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="zhihu">知乎日报</string>
+    <string name="wechat">微信精选</string>
+    <string name="gank">干货集中营</string>
+    <string name="like">收藏</string>
+    <string name="setting">设置</string>
+    <string name="about">关于</string>
+    <string name="gold">稀土掘金</string>
+    <string name="vtex">V2EX</string>
+    <string name="rewen">今日热文</string>
+</resources>
